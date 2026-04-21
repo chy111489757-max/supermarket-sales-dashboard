@@ -40,7 +40,7 @@ To run this application locally, ensure you have Python installed.
 
 ## 6. Demo
 * **Demo Video Path:** [about the product\3. demo video.mp4]
-* **Source Code Link:** [  ]
+* **Source Code Link:** [https://github.com/chy111489757-max/supermarket-sales-dashboard/releases/tag/v1.0.0]
 
 ## 7. Limitations & Next Steps
 While this dashboard provides valuable insights, there are several areas for future enhancement:
